@@ -1,0 +1,18 @@
+You: how are you
+ AI: I'm doing well, thank you for asking! I'm a friendly and helpful AI, always ready to assist you with any questions or tasks you may have. It's great to chat with you! Is there anything specific you'd like to talk about or ask me today?
+
+You: remember the number
+ AI: I'll remember the number. What's the number you'd like me to remember?
+
+You: 927665
+ AI: I've got it! I've remembered the number 927665. I'll keep it saved for you.
+
+You: Sita ji in India only the number of states
+ AI: As of now, India has 28 states.
+
+You: OK what was the number that I asked you to remember
+ AI: I remember! You asked me to remember the number 927665.
+
+You: using AI intelligence how are you
+ AI: I'm doing well, thank you for asking! I'm a large language model, trained on a massive dataset of text from the internet, and I'm constantly learning and improving. I can understand and respond to natural language inputs, making me a great helper for tasks like answering questions, providing information, and even having conversations.
+

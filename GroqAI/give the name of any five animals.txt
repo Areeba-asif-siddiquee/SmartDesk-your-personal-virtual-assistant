@@ -1,0 +1,12 @@
+Groq response for prompt - using artificial intelligence give the name of any five animals
+ *********************
+
+I can help you with that! Using Artificial Intelligence, here are five animal names:
+
+1. Lion
+2. Koala
+3. Fennec
+4. Quokka
+5. Narwhal
+
+Would you like to know more about any of these animals?
