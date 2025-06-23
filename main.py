@@ -7,8 +7,6 @@ import traceback
 from config import groq_api_key
 import requests
 
-#apna insta login bhi kara sakte hain by using webdriver package
-
 def say(text):
     try:
         engine = pyttsx3.init()
@@ -144,7 +142,7 @@ if __name__ == '__main__':
 
         if "open music" in query:
             say("opening music ma'am")
-            music_path = r"C:\Users\Laviza Usmani\Desktop\MAJOR_PROJECT\songs\christmas-romantic-pianonuit-de-noel-271107.mp3"
+            music_path = r"C:\Users\Areeba Siddiquee\Desktop\MAJOR_PROJECT\songs\christmas-romantic-pianonuit-de-noel-271107.mp3"
             os.startfile(music_path)
 
         if "what is the time" in query:
@@ -161,6 +159,3 @@ if __name__ == '__main__':
         else:
             chat(query)
 
-
-# TODO1 = WEATHER API ADD
-# TODO2= NEWS API ADD
